@@ -1,1 +1,1 @@
-# Shop
+# Django Docker Clean Template
