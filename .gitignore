@@ -218,9 +218,4 @@ app/frontend/node_modules
 app/frontend/.pnp
 .pnp.js
 
-# testing
-backend/frontend/coverage
-backend/frontend/README.md
-backend/frontend/.eslintcache
-
 # End of https://www.gitignore.io/api/macos,linux,django,python,pycharm
